@@ -1,0 +1,32 @@
+HTML = Hyper Text Markup Language
+
+I am responsible for the webpage structure
+
+<element>content</element>
+    - <h1>Heading</h1> == Heading element
+    - <p>Paragraph</p> == Paragraph element
+    - <img src= "...."> == Image element
+    - <br /> == Line Break
+
+Live Server Address for firsthtml.html =
+    http://127.0.0.1:5500/firsthtml.html
+
+
+
+Basic HTML Page Structure
+
+<!DOCTYPE html> == HTML VERSION
+
+<html> == ROOT ELEMENT 
+
+    <head> == INFORMATION ABOUT PAGE (META, LINKS, TITLE)
+        <title>Document</title> == Page Title 
+
+        ........ META, LINKS
+    </head>
+
+    <body> == WHAT IS DISPLAYED ON PAGE 
+        ........ PAGE CONTENT 
+    </body>
+
+</html>
